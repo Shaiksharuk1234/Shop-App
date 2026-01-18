@@ -27,11 +27,11 @@ export default function Home() {
       </div>
 
       {/* IMAGE */}
-      <img
+      {/* <img
         src="/home/hero.jpeg"
         alt="Interior Design"
         style={styles.image}
-      />
+      /> */}
 
     </section>
   );
