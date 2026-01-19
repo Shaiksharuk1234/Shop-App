@@ -40,3 +40,9 @@ img {
   object-fit: cover;
   border-radius: 8px;
 }
+
+@media (max-width: 768px) {
+  .shop-carousel img {
+    height: 220px;
+  }
+}
