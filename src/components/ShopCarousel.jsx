@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const images = [
-  "/home/Corosel-3.png",
+  "/home/image.png",
   "/home/Corosel-4.png"
 ];
 
